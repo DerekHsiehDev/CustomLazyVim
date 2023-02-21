@@ -1,4 +1,8 @@
-# 💤 LazyVim
+# 💤 Custom LazyVim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+## Features
+
+- GitHub CoPilot integration: Adds CoPilot support into LazyVim starter
+- Typescript integration: write and edit Typescript code with ease
+- Full Vim configuration: powerful and lightweight configuration
+- Easy to use: designed to make your Vim experience easier and more efficient
